@@ -1,8 +1,10 @@
 # Git_Learning
 This repository is built about learning Git.
 
-This is my first attempt.
+1. This is my first attempt.
 
-This is my second attempt.
+2. This is my second attempt.
 
-I attempt to make a challenge thirdly.
+3. I attempt to make a challenge thirdly.
+
+4. Fourth,this is a small change.
