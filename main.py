@@ -2,4 +2,5 @@
 
 if __name__ == "__main__":
     String1 = "Welcome to Git firstly!"
-    print(String1)
+    String2 = "jiwei"
+    print(String1,String2)
