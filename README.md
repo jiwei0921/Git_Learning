@@ -10,3 +10,5 @@ This repository is built about learning Git.
 4. Fourth,this is a small change.
 
 5. Fifth, this is a samll change.
+
+- Creating a new branch is quick.
