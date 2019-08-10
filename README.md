@@ -11,6 +11,7 @@ This repository is built about learning Git.
 
 5. Fifth, this is a samll change.
 
-- Creating a new branch is quick.
 
-- Creating a new branch is quick & simple.
+- Creating a new branch is quick.
+- Creating a new branch is qucik AND sample.
+
