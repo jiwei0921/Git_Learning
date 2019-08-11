@@ -19,4 +19,5 @@ This repository is built about learning Git.
 
 - fix a small bug
 
-- I come again，haha
+- I come again，haha.
+- I want to delete my fix bug.
