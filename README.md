@@ -16,3 +16,5 @@ This repository is built about learning Git.
 - Creating a new branch is qucik AND sample.
 
 - small change in branch 'dev'
+
+- fix a small bug
