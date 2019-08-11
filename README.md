@@ -21,3 +21,5 @@ This repository is built about learning Git.
 
 - I come again，haha.
 - I want to delete my fix bug.
+
++ Create a new branch ""rem""
